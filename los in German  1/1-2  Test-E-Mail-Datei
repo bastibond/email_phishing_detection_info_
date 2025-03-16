@@ -2,7 +2,7 @@
 
 Erstelle eine Textdatei, z.B. beispiel_email.txt mit folgendem Inhalt:
 
---------------------------------------------- 
+------------------makefile--------------------------- 
 
 Betreff: Dringende Sicherheitswarnung zu Ihrem Konto!
 
