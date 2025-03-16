@@ -1,0 +1,35 @@
+los in German 
+
+Klar, legen wir los! Hier kommt eine detaillierte Schritt-für-Schritt-Anleitung auf Deutsch, wie du dein eigenes E-Mail-Phishing-Erkennungsskript mit Python und der OpenAI-API erstellen kannst.
+✅ Voraussetzungen
+
+    Python installiert (empfohlen Version 3.8 oder höher)
+    OpenAI API Key (bekommst du auf https://platform.openai.com/)
+-------------------------------------
+✅ Projektstruktur erstellen
+--
+bash
+mkdir email_phishing_detection
+cd email_phishing_detection
+------------------------------------
+bash
+✅ Virtuelle Umgebung einrichten (optional, aber empfohlen)
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+
+----------------------------------
+ ✅ ✅ Notwendige Python-Bibliotheken installieren
+
+pip install openai python-decouple
+--------------------
+✅✅✅✅
+
+✅ .env-Datei anlegen (geheim!)
+
+Erstelle eine .env-Datei im Projektverzeichnis und trage dort deinen OpenAI API-Key ein:
+
+OPENAI_API_KEY=DEIN_API_SCHLÜSSEL_HIER
+
+Ersetze DEIN_API_SCHLÜSSEL_HIER mit deinem echten API-Key.
+✅ Python-Code schreiben (Speichere ihn z.B. als phishing_detection.py)
