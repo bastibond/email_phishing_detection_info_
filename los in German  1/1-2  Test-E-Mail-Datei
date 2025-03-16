@@ -1,0 +1,16 @@
+ Beispiel für eine Test-E-Mail-Datei
+
+Erstelle eine Textdatei, z.B. beispiel_email.txt mit folgendem Inhalt:
+
+--------------------------------------------- 
+
+Betreff: Dringende Sicherheitswarnung zu Ihrem Konto!
+
+Sehr geehrter Kunde,
+
+wir haben verdächtige Aktivitäten in Ihrem Konto festgestellt. Bitte klicken Sie auf den folgenden Link und bestätigen Sie Ihre Identität, um eine Kontosperrung zu vermeiden:
+
+http://unsichere-webseite.example.com
+
+Mit freundlichen Grüßen,
+Ihr Bank-Team
