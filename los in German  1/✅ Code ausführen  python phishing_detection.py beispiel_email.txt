@@ -1,0 +1,14 @@
+✅ Code ausführen
+
+python phishing_detection.py beispiel_email.txt
+
+------------------------------
+✅ Mögliche Ausgabe
+
+✅ Analyse abgeschlossen:
+
+Diese E-Mail weist ein hohes Risiko für einen Phishing-Versuch auf. Verdächtige Merkmale sind:
+- Dringende Aufforderung zur Handlung
+- Androhung einer Kontosperrung
+- Link zu einer potenziell unsicheren Webseite
+Es wird empfohlen, diese E-Mail zu ignorieren und nicht auf Links zu klicken.
